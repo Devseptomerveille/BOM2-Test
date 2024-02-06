@@ -1,0 +1,22 @@
+{
+  "name": "bom2-test",
+  "version": "1.0.0",
+  "description": "Automatisation des tests sur BOM2 avec cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BOM2-Test"
+  },
+  "keywords": [
+    "cypress",
+    "test"
+  ],
+  "author": "septo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}

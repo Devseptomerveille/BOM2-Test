@@ -1,4 +1,6 @@
 /// <reference types="cypress"/>
+import { LoginPage } from "../pages/LoginPage";
+
 describe("connection to the cypress BOM2.0 page", () =>{
 
     beforeEach( () =>{

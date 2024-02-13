@@ -2,7 +2,7 @@
 import { LoginPage } from "../pages/LoginPage";
 
 describe("connection to the cypress BOM2.0 page", () => {
-
+// this part permi
   beforeEach(() => {
     cy.visit("https://adminbom.smobilpay.integration.maviance.info/agent-payments?filter=")
     cy.get("#username").type("auto_webagent")

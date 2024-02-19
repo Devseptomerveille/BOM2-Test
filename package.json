@@ -18,5 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^13.6.4"
+  },
+  "devDependencies": {
+    "@types/cypress": "^1.1.3"
   }
 }

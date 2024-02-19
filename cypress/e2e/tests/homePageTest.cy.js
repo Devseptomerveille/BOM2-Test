@@ -63,4 +63,3 @@ describe("connection to the cypress BOM2.0 page", () => {
 
 })
 
-

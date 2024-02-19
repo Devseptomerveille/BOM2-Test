@@ -1,5 +1,10 @@
-{
-    "home_page":{
+  {
+      "login_page":{
+        "user_name_login": "#username",
+        "password_login":"#password"
+
+      },
+      "home_page":{
         "welcome_text1":"WELCOME TO YOUR",
         "digital_payment_text2": "DIGITAL PAYMENT",
         "platform_text3": "PLATFORM",
@@ -22,7 +27,7 @@
         "fund_id_menubar":"Fund Account",
         "configurations_id_menubar":"Configurations"
     },
-
+      
     "historic_page":{
       "click_service_th":"Service",
       "destination_th":"Destination",
@@ -35,4 +40,5 @@
       "rows_per_page_": "10",
       "click_pagination_1":"1"
     }
+   
 }

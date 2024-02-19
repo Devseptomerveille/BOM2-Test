@@ -9,7 +9,7 @@ export class HistoricPage{
     click_processed_at_ident =".MuiTableHead-root > .MuiTableRow-root > .column-clearingDate"
     click_payment_status_ident=".column-status > .MuiButtonBase-root > span"
     actions_ident=".MuiTableHead-root > .MuiTableRow-root > :nth-child(8) > span"
-    rows_per_page_ident="#mui-20"
+    rows_per_page_ident="#mui-21"
     select_rows_per_page_ident='#menu- > .MuiPaper-root > .MuiList-root > .Mui-selected'
     click_pagination_1_ident=".MuiPagination-ul"
 }

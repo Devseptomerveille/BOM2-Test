@@ -11,5 +11,5 @@ export class HistoricPage{
     actions_ident=".MuiTableHead-root > .MuiTableRow-root > :nth-child(8) > span"
     rows_per_page_ident="#mui-21"
     select_rows_per_page_ident='#menu- > .MuiPaper-root > .MuiList-root > .Mui-selected'
-    click_pagination_1_ident=".MuiPagination-ul"
+    click_pagination_1_ident=".MuiPagination-ul1"
 }
